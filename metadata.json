@@ -1,0 +1,6 @@
+{
+  "name": "KOHNGAICAMPINGTRAVEL Voucher System",
+  "description": "A comprehensive tour voucher booking, vehicle dispatch, and financial expense management system with advanced roles and analytics reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
